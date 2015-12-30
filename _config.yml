@@ -1,7 +1,7 @@
 name: Fractalink
 favicon: null
-layout_spectrum: 0.10017281188629568
-typography_spectrum: 0.3991260672919452
+layout_spectrum: 0
+typography_spectrum: 0.74088
 title: "India's best UX Design Studio"
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#c4d600'
+    - '#000000'
+    - '#383e00'
+    - '#495000'
+    - '#b6c700'
   brandStrength: 0.22344392933882773
   lightness: 0.9289684391114861
   saturation: 0.8584343518596143
