@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Fractalink]]></title>
         <description><![CDATA[Fractalink]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fractalink/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 12:00:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Dec 2015 12:04:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fractalink/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a04dfb0c-ac23-435c-ad05-38dd495ffb3d.JPG">]]></description>
+            <link>https://thegrid.ai/fractalink/fde8326c-356e-460b-8211-8b93d2a1cfdc/index.html</link>
+            <guid isPermaLink="false">fde8326c-356e-460b-8211-8b93d2a1cfdc</guid>
+            <pubDate>Wed, 30 Dec 2015 12:04:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cae2852-6a2f-4a60-841d-b3385194748c.jpg">]]></description>
-            <link>undefined8003a366-1b17-4c02-a482-1338e7c0bd73/index.html</link>
+            <link>https://thegrid.ai/fractalink/8003a366-1b17-4c02-a482-1338e7c0bd73/index.html</link>
             <guid isPermaLink="false">8003a366-1b17-4c02-a482-1338e7c0bd73</guid>
             <pubDate>Wed, 30 Dec 2015 12:00:32 GMT</pubDate>
         </item>
