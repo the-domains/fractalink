@@ -1,29 +1,41 @@
-name: Fractalink
-favicon: null
-layout_spectrum: 0.70485
-typography_spectrum: 0.38211
 title: "India's best UX Design Studio"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.8584343518596143
+  brandStrength: 0.2234439293388277
+  rhythmicContrast: 0.331311312969774
   brandColors:
     - '#c4d600'
     - '#000000'
     - '#383e00'
     - '#495000'
     - '#b6c700'
-  brandStrength: 0.22344392933882773
   lightness: 0.9289684391114861
-  saturation: 0.8584343518596143
-  rhythmicContrast: 0.331311312969774
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Fractalink
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.38211
+layout_spectrum: 1
